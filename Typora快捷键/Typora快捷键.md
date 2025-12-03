@@ -130,8 +130,3 @@ ctrl + T 表格
 
 ```
 
-![image-20251202225907639](C:\Users\longlong\AppData\Roaming\Typora\typora-user-images\image-20251202225907639.png)
-
-1![image-20251202231117211](assets/Typora快捷键/image-20251202231117211.png)
-
-![image-20251202231245916](assets/Typora快捷键/image-20251202231245916.png)
